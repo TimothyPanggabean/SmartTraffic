@@ -1,5 +1,5 @@
 # SmartTraffic
-Notebook for Smart Traffic project
+Models and results of Smart Traffic project
 ## Details
 - Face Detection model made using PyTorch, with YOLOv3 as a base
 - Training, validation, and testing data were obtained from various sources:
